@@ -1,3 +1,1 @@
-get_yesterday <- function() {
-  +     return(Sys.Date()-1)
-}
+usethis::edit_r_environ()
